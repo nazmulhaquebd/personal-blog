@@ -1,0 +1,1 @@
+One of the most significant challenges faced during the development of the personal blog was creating a responsive design that looked good on all devices, including desktop, tablet, and mobile. This challenge was overcome by using CSS media queries to adjust the layout based on the screen size.
